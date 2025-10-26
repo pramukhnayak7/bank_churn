@@ -48,7 +48,7 @@ cf=confusion_matrix(y_test, y_pred)
 print(cf)
 
 
-#-------test-------balls
+#-------test-------
 new_customer = {
     'CreditScore': 600,
     'Age': 45,
